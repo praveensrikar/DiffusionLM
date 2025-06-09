@@ -1,0 +1,15 @@
+# This file is used to install the required packages for the project.
+huggingface_hub==0.28.1
+transformers==4.41.1
+wandb
+spacy==3.8.2
+numpy==2.0.0
+datasets
+mpi4py
+torchvision
+torchaudio
+benepar
+spacy_stanza
+pytorch
+torchvision
+torchaudio

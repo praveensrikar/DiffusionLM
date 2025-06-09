@@ -1,0 +1,5 @@
+top_p = -1.0
+pattern_ = ema ema
+diffusion_models/diff_e2e-tgt_block_rand16_transformer_lr0.0001_0.0_2000_sqrt_Lsimple_h128_s2_d0.1_sd102_xstart_e2e/model050000.pt
+output lists:
+
